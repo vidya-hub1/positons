@@ -1,0 +1,44 @@
+.div1{
+    position: static;
+    top: 10rem;
+    
+}
+.div2{
+    position:top lefft;
+    top: 30rem;
+}
+.div3{
+    position: static;
+    top: 60rem;
+}
+.div4{
+    position: absolute;
+    top: 10px;
+    left: 600x;
+    bottom: 0px;
+    right: 5px;
+}
+.div5{
+    position: absolute;
+    top: 265px;
+    left: 600x;
+    bottom: 0px;
+    right: 5px;
+}
+.div6{
+    position: absolute;
+    top: 520px;
+    left: 600x;
+    bottom: 0px;
+    right: 5px;
+}
+.div7{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    bottom: 45%;
+    right: 40%;
+    img{
+        border-radius: 5%;
+    }
+}
